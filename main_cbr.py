@@ -8,7 +8,6 @@ from io import BytesIO
 from tkinter import ttk
 
 # Defining the GPIO pins connected to the relay module
-# relay_pins = [23, 21, 19, 15, 13, 11, 7, 40, 38, 36, 32, 37, 35, 33, 31, 29]
 relay_pins = [23, 21, 19, 15, 13, 11, 7, 40, 38, 36, 32, 37, 35, 33, 31, 29]
 
 # Loading recipes from JSON
