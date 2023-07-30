@@ -1,0 +1,538 @@
+{
+  "AMF": {
+    "image_url": "https://www.wickiwackiwoo.com/wp-content/uploads/2022/09/ADIOS-MF-BLOG.jpg",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "White Rum",
+        "quantity": 15,
+        "motor": 2
+      },
+      {
+        "name": "Tequila",
+        "quantity": 15,
+        "motor": 3
+      },
+      {
+        "name": "Gin",
+        "quantity": 15,
+        "motor": 4
+      },
+      {
+        "name": "Blue Curacao",
+        "quantity": 15,
+        "motor": 5
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 15,
+        "motor": 6
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 15,
+        "motor": 10
+      },
+      {
+        "name": "Sprite",
+        "quantity": 60,
+        "motor": 9
+      }
+    ]
+  },
+  "Long Island Ice Tea": {
+    "image_url": "https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2019/07/Long_island_iced_tea-1-4s.jpg",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "White Rum",
+        "quantity": 15,
+        "motor": 2
+      },
+      {
+        "name": "Tequila",
+        "quantity": 15,
+        "motor": 3
+      },
+      {
+        "name": "Gin",
+        "quantity": 15,
+        "motor": 4
+      },
+      {
+        "name": "Triple Sec",
+        "quantity": 15,
+        "motor": 7
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 15,
+        "motor": 10
+      },
+      {
+        "name": "Coca-Cola",
+        "quantity": 60,
+        "motor": 11
+      }
+    ]
+  },
+  "Sex on the Beach": {
+    "image_url": "https://realhousemoms.com/wp-content/uploads/Sex-on-the-Beach-HERO-scaled.jpg",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 30,
+        "motor": 1
+      },
+      {
+        "name": "Peach Schnapps",
+        "quantity": 30,
+        "motor": 14
+      },
+      {
+        "name": "Cranberry Juice",
+        "quantity": 90,
+        "motor": 12
+      },
+      {
+        "name": "Orange Juice",
+        "quantity": 90,
+        "motor": 13
+      }
+    ]
+  },
+  
+  
+  
+  "Tokyo Ice Tea": {
+    "image_url": "https://cdn.tipsybartender.com/tipsybartender/jpg/wp-content/uploads/2018/03/tokyo-iced-tea.jpg",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "White Rum",
+        "quantity": 15,
+        "motor": 2
+      },
+      {
+        "name": "Tequila",
+        "quantity": 15,
+        "motor": 3
+      },
+      {
+        "name": "Gin",
+        "quantity": 15,
+        "motor": 4
+      },
+      {
+        "name": "Triple Sec",
+        "quantity": 15,
+        "motor": 7
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 15,
+        "motor": 10
+      },
+      {
+        "name": "Sprite",
+        "quantity": 60,
+        "motor": 9
+      }
+    ]
+  },
+  "Margarita": {
+    "image_url": "https://images.absolutdrinks.com/drink-images/Raw/Absolut/c8bc404c-fc30-4ec8-a9a5-0dca3913bbbb.jpg?imwidth=750",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "quantity": 75,
+        "motor": 3
+      },
+      {
+        "name": "Vodka",
+        "quantity": 60,
+        "motor": 1
+      },
+      {
+        "name": "Triple Sec",
+        "quantity": 15,
+        "motor": 7
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 15,
+        "motor": 6
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 15,
+        "motor": 10
+      }
+    ]
+  },
+  "Jeju Tea": {
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/vsrsqu1472761749.jpg",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "quantity": 15,
+        "motor": 4
+      },
+      {
+        "name": "White Rum",
+        "quantity": 15,
+        "motor": 2
+      },
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "Orange Juice",
+        "quantity": 60,
+        "motor": 13
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 15,
+        "motor": 10
+      },
+      {
+        "name": "Cranberry Juice",
+        "quantity": 60,
+        "motor": 12
+      }
+    ]
+  },
+  "Blue Sapphire": {
+    "image_url": "https://mixthatdrink.com/wp-content/uploads/2020/02/sex-in-the-driveway-drink-3-1024x1535.jpg",
+    "ingredients": [
+      {
+        "name": "Blue Curacao",
+        "quantity": 45,
+        "motor": 5
+      },
+      {
+        "name": "Malibu",
+        "quantity": 60,
+        "motor": 0
+      },
+      {
+        "name": "Simple Syrup",
+        "quantity": 15,
+        "motor": 6
+      },
+      {
+        "name": "Sprite",
+        "quantity": 60,
+        "motor": 8
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 15,
+        "motor": 10
+      },
+      {
+        "name": "Peach Schnapps",
+        "quantity": 60,
+        "motor": 14
+      }
+    ]
+  },
+  "Blue Hawaii": {
+    "image_url": "https://honestcooking.com/wp-content/uploads/2015/11/bluehawaii_HR.jpg",
+    "ingredients": [
+      {
+        "name": "Blue Curacao",
+        "quantity": 60,
+        "motor": 5
+      },
+      {
+        "name": "Malibu",
+        "quantity": 60,
+        "motor": 0
+      },
+      {
+        "name": "White Rum",
+        "quantity": 15,
+        "motor": 2
+      },
+      {
+        "name": "Pineapple Juice",
+        "quantity": 60,
+        "motor": 15
+      }
+    ]
+  },
+  "Pina Colada": {
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg",
+    "ingredients": [
+      {
+        "name": "White Rum",
+        "quantity": 60,
+        "motor": 2
+      },
+      {
+        "name": "Malibu",
+        "quantity": 60,
+        "motor": 0
+      },
+      {
+        "name": "Coconut Cream",
+        "quantity": 75,
+        "motor": 15
+      },
+      {
+        "name": "Pineapple Juice",
+        "quantity": 60,
+        "motor": 15
+      }
+    ]
+  },
+  "Junbug": {
+    "image_url": "https://www.drinkstuff.com/inspiration/media/mycezssd/june-bug.jpg?width=1370",
+    "ingredients": [
+      {
+        "name": "Malibu",
+        "quantity": 15,
+        "motor": 0
+      },
+      {
+        "name": "Midori Melon Liqueur",
+        "quantity": 60,
+        "motor": 8
+      },
+      {
+        "name": "Pineapple Juice",
+        "quantity": 120,
+        "motor": 15
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 60,
+        "motor": 10
+      }
+    ]
+  },
+  
+    "Midori Sour": {
+    "image_url": "https://www.liquor.com/thmb/q_RYLYqrYZkHSCoHu98C-h42kbQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__liquor__2019__04__04101555__Midori-Sour-720x720-recipe-8286cb7ef2be40f98ad359f49d7943a3.jpg",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 15,
+        "motor": 1
+      },
+      {
+        "name": "Midori Melon Liqueur",
+        "quantity": 60,
+        "motor": 8
+      },
+      {
+        "name": "Sprite",
+        "quantity": 120,
+        "motor": 9
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 120,
+        "motor": 10
+      }
+    ]
+  },
+  
+  "Hawaiian Punch": {
+    "image_url": "https://www.dekuyperusa.com/sites/default/files/component_recipes/images/hawaiian-punch.png",
+    "ingredients": [
+      {
+        "name": "Malibu",
+        "quantity": 60,
+        "motor": 0
+      },
+      {
+        "name": "Cranberry Juice",
+        "quantity": 75,
+        "motor": 12
+      },
+      {
+        "name": "Grenadine",
+        "quantity": 15,
+        "motor": 15
+      },
+      {
+        "name": "Lemon Juice",
+        "quantity": 75,
+        "motor": 10
+      }
+    ]
+  },
+    "Tequila Sunrise": {
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg",
+    "ingredients": [
+      {
+        "name": "Tequila",
+        "quantity": 45,
+        "motor": 0
+      },
+
+      {
+        "name": "Orange Juice",
+        "quantity": 120,
+        "motor": 13
+      },
+      {
+        "name": "Grenadine",
+        "quantity": 15,
+        "motor": 15
+      }
+    ]
+  },
+  
+  "Vodka Orange": {
+    "image_url": "https://winedharma.com/wine-dharma/uploads/2020/10/Screwdriver-cocktail-recipe-vodka-orange-drink-recipe-best-vodka-drinks.jpg",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 60,
+        "motor": 1
+      },
+      {
+        "name": "Orange Juice",
+        "quantity": 120,
+        "motor": 13
+      }
+    ]
+  },
+  
+   "Malibu Orange": {
+    "image_url": "https://www.gutekueche.ch/upload/rezept/12392/malibu-orange.jpg",
+    "ingredients": [
+      {
+        "name": "Malibu",
+        "quantity": 60,
+        "motor": 0
+      },
+      {
+        "name": "Orange Juice",
+        "quantity": 120,
+        "motor": 13
+      }
+    ]
+  },
+  
+  
+  "Rum Coke": {
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/otn2011504820649.jpg",
+    "ingredients": [
+      {
+        "name": "White Rum",
+        "quantity": 45,
+        "motor": 2
+      },
+      {
+        "name": "Coca-Cola",
+        "quantity": 120,
+        "motor": 11
+      }
+    ]
+  },
+  "Vodka Cranberry": {
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/lx0lvs1492976619.jpg",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 60,
+        "motor": 1
+      },
+      {
+        "name": "Cranberry Juice",
+        "quantity": 120,
+        "motor": 12
+      }
+    ]
+  },
+  
+    "Cosmopolitan": {
+    "image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cosmopolitan-7a6874f.jpg?quality=90&webp=true&resize=375,341",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 45,
+        "motor": 1
+      },
+      
+      {
+        "name": "Triple Sec",
+        "quantity": 15,
+        "motor": 7
+      },
+      
+      {
+        "name": "Lemon Juice",
+        "quantity": 15,
+        "motor": 12
+      },
+      {
+        "name": "Cranberry Juice",
+        "quantity": 30,
+        "motor": 12
+      }
+    ]
+  },
+  
+    "Gin Tonic": {
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/wtyxvx1472405831.jpg",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "quantity": 45,
+        "motor": 4
+      },
+      {
+        "name": "Tonic Water",
+        "quantity": 120,
+        "motor": 15
+      }
+    ]
+  },
+  
+  "Rum Punch": {
+    "image_url": "https://www.thecocktaildb.com/images/media/drink/wyrsxu1441554538.jpg",
+    "ingredients": [
+      {
+        "name": "White Rum",
+        "quantity": 45,
+        "motor": 2
+      },
+      {
+        "name": "Orange Juice",
+        "quantity": 60,
+        "motor": 13
+      },
+      {
+        "name": "Pineapple Juice",
+        "quantity": 60,
+        "motor": 15
+      },
+      {
+        "name": "Grenadine",
+        "quantity": 15,
+        "motor": 15
+      }
+    ]
+  }
+}
+
