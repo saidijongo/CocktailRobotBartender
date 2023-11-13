@@ -1,4 +1,5 @@
 {
+  
   "AMF": {
     "image_url": "https://www.wickiwackiwoo.com/wp-content/uploads/2022/09/ADIOS-MF-BLOG.jpg",
     "ingredients": [
@@ -57,6 +58,7 @@
         "quantity": 15,
         "motor": 2
       },
+      
       {
         "name": "Tequila",
         "quantity": 15,
