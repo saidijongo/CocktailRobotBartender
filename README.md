@@ -7,4 +7,7 @@ sudo apt install python3-tk python3-pil python3-serial
 
 ![image](https://github.com/saidijongo/CocktailRobotBartender/assets/31678025/a8455c80-8645-4ce2-aeb4-ff1e718cd5ff)
 
+sudo apt-get install python3-pil python3-pil.imagetk
+
+
 
